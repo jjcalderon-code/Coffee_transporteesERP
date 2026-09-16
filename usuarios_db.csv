@@ -1,0 +1,6 @@
+﻿ID,Usuario,Contraseña,Rol,Foto,Pregunta,Respuesta,Correo
+1,Calderon,pbkdf2$200000$e446ea7ebd2d9690be2b9878c31dd139$02398dffd0abbf398f8f7ced28ec104367153e74f7c6f30cccee91b5def08e9e,Dueño,,¿En qué ciudad naciste?,pbkdf2$200000$ef8e3a588efde498dc4da9ca402a43e9$970ecc9b4a2ddc5ed447963d7b8ac962f325afa1e107c643da4a78c05a946651,jj.calderon520@gmail.com
+2,Wajojk13,123,Administrador,,,,
+3,MrGerzon,123,Conductor,,,,
+4,puma,pbkdf2$200000$049aaf2b47a9acfb6e44e2fc2c560a04$608b58b195bc8b2a23cad6b39fd905104b3b80f65534e6aeb701399bbbc5ea9b,Dueño,,,,
+5,Murillo,pbkdf2$200000$ab582a5e1d8ee62441302f13899d8f53$3a1dee61f8bc7c8eafc90be2e67e180f9f0d2ec99bcc0da0506d77cbcd17a96e,Conductor,,,,
